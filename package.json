@@ -1,0 +1,17 @@
+{
+  "name": "coursera-hongkong",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn bootstrap git and node",
+  "main": "index.html",
+  "scripts": {
+    "scss": "node-sass -o css/ css/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "node-sass": "^6.0.0"
+  }
+}
